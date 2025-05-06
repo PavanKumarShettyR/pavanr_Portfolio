@@ -1,18 +1,18 @@
-# Pavan R - Professional Resume
+# Pavan R - Portfolio
 
-## Senior Software Engineer | Power Platform Specialist
+## Software Engineer- Automation CoE
 
 > Power Platform | RPA Developer | Integration & Automation Specialist
 
 ## Contact Information
 
 - **Email:** Pavan.R@shell.com
-- **Phone:** +91 8884787573
+- **Phone:** +91-8884787573
 - **LinkedIn:** [linkedin.com/in/r-pavankumar](https://www.linkedin.com/in/r-pavankumar/)
 
 ## Professional Summary
 
-Experienced Power Platform & RPA Developer with 9+ years of professional experience creating innovative automation solutions. Strong background in developing multibot architectures, Power Apps solutions, and integration frameworks. Currently seeking a role as a Senior Software Engineer - Power Platform in the Power Platform team (APPI). Passionate about leveraging technology to solve complex business challenges and deliver tangible results.
+Experienced Power Platform & RPA Developer with 9+ years of professional experience creating innovative automation solutions. Strong background in developing multibot architectures, Power Apps solutions, and integration frameworks. Currently seeking a role as a 'Senior Software Engineer - Power Platform' in the Power Platform team (APPI). Passionate about leveraging technology to solve complex business challenges and deliver tangible results.
 
 ## Work Experience
 
@@ -22,13 +22,13 @@ Experienced Power Platform & RPA Developer with 9+ years of professional experie
 - Perform Quality Analysis of developers' bots and improve lifecycle processes
 - Provide training to new joiners and junior developers
 - Perform feasibility analysis of new bots and create reusable components
-- Lead the 'Gen AI powered Intelligent Automation' initiative integrating bots with LLM-powered OCR
+- Lead the 'Gen-AI powered Intelligent Automation' initiative integrating bots with LLM-powered OCR
 - Established Technical Review Board (TRB) for developers to discuss new use cases and share insights
 - Started Fun Friday Tech Sessions to connect developers through sharing current tech trends
 
 #### RPA Developer
 - Developed RPA bots using Blue Prism
-- Created TRITON - the first multibot operating architecture for customer operations
+- Created TRITON - the first multi-bot operating architecture for customer operations
 - Handled 200+ daily requests with a 15-minute SLA using master-slave concept with 8 bots
 - Led technical implementation of Data Gateways to map bot metadata to business use cases
 - Created multiple Power Platform solutions for various business needs
@@ -58,8 +58,8 @@ Experienced Power Platform & RPA Developer with 9+ years of professional experie
 - Features: Skill assessment and tracking, gap analysis visualization, resource allocation insights
 
 ### Shell.ai Awards Portal
+- Created a power platform solution for award nomination management across Shell
 - Delivered a zero-error app in just 2 weeks
-- Created portal for award nomination management across Shell
 - Features: Nomination workflow with approval stages, category-based judging system, automated notifications
 
 ### SWAG Idea Portal
@@ -88,9 +88,9 @@ Experienced Power Platform & RPA Developer with 9+ years of professional experie
 
 ## Key Highlights & Initiatives
 
-- **First RPA Multibot in Shell:** Developed TRITON, the first RPA bot with multibot architecture in Shell
+- **First RPA Multi-bot in Shell:** Developed TRITON, the first RPA bot with multi-bot architecture in Shell
 - **Datagateways:** Led technical implementation to map bot metadata to business use cases, transforming bot backlog items to PNL statement verified returns
-- **Gen AI Integration:** Leading the 'Gen AI powered Intelligent Automation' initiative by integrating bots with LLM-powered OCR through Shell-e's Data Extraction Agent
+- **Gen AI Integration:** Leading the 'Gen-AI powered Intelligent Automation' initiative by integrating bots with LLM-powered OCR through Shell-e's Data Extraction Agent
 - **Technical Review Board (TRB):** Introduced platform for developers to discuss new use cases, share insights, and avoid common pitfalls
 - **Developer Training:** Trained developers on Blue Prism, Power Automate Desktop, and Power Platform solutions
 - **Fun Friday Tech Sessions:** Started in 2023 to connect developers through sharing current tech trends and system design discussions
@@ -99,32 +99,32 @@ Experienced Power Platform & RPA Developer with 9+ years of professional experie
 ## Skills & Expertise
 
 ### Power Platform
-- Power Apps (95%)
-- Power Automate (90%)
-- Dataverse (85%)
-- AI Builder (75%)
+- Power Apps
+- Power Automate
+- Dataverse
+- AI Builder
 
 ### RPA & Automation
-- Blue Prism (95%)
-- Power Automate Desktop (90%)
-- NICE Systems (85%)
-- UIPath (70%)
+- Blue Prism
+- Power Automate Desktop
+- NICE Systems
+- UIPath
 
 ### Cloud & Infrastructure
-- Azure (85%)
-- SharePoint (80%)
-- SQL Databases (75%)
-- Power BI (80%)
+- Azure
+- SharePoint
+- SQL Databases
+- Power BI
 
 ### AI & Emerging Tech
-- Copilot Studio (75%)
-- GitHub Copilot (70%)
-- Generative AI (75%)
+- Copilot Studio
+- GitHub Copilot
+- Generative AI
 
 ## Certifications & Learning
 
-### Microsoft Power Up Program
-Earners of this recognition have met all program graduation requirements and have learned the fundamentals of Microsoft Power Platform. Course work included guided e-learning, app development and dashboard creation labs, and a final app development challenge.
+### Microsoft Power-Up Program
+Coursework included learning Power Apps, Power Automate, Power BI, Dataverse, Model Driven Apps, Power Pages etc. At the end of the course an app development was completed as part of the challenge. [The final app can be viewed here](https://www.youtube.com/watch?v=WRNUYvD8-AE)
 
 ### Learnathon on Integrated Solutions
 Equipped with knowledge of integration architecture, different tools used at Shell, application scenarios of these tools/solutions, and current project landscape with integration solutions including:
@@ -151,5 +151,3 @@ Demonstrated knowledge of Microsoft Power Platform capabilities and how to devel
 > — **Jayanta Biswas**, Design Authority
 
 ---
-
-*Last Updated: May 6, 2025*
